@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: "Test Site", // Title for your website.
-  tagline: "A website for testing",
+  title: "Ovinos IFC", // Title for your website.
+  tagline: "Bem vindo a Documentação do Sistema Da Ovinos - IFC Araquari",
   url: "https://your-docusaurus-test-site.com", // Your website URL
   baseUrl: "/", // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -30,7 +30,7 @@ const siteConfig = {
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: "test-site",
+  projectName: "Ovinos - Fábrica de Software",
   organizationName: "facebook",
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
@@ -47,14 +47,14 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: "img/logo_ovinos.jpeg",
-  footerIcon: "img/logo_ovinos.jpeg",
-  favicon: "img/logo_ovinos.jpeg",
+  headerIcon: "img/logoOvino.png",
+  footerIcon: "img/logoOvino.png",
+  favicon: "img/favicon.png",
 
   /* Colors for website */
   colors: {
-    primaryColor: "#363636",
-    secondaryColor: "#1b351e",
+    primaryColor: "#1C1C1C",
+    secondaryColor: "#363636",
   },
 
   /* Custom fonts for website */
