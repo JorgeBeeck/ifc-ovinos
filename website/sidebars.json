@@ -1,13 +1,12 @@
 {
   "docs": {
-    "Docusaurus": [
+    "Setup para desenvolvimento": [
       "doc1",
-     "doc9"
+      "InstallBackend",
+      "InstallFrontend"
     ],
-    "First Category": [
-      "doc2",
-      "doc3",
-      "docFront"
+    "Boas Práticas do Projeto": [
+      "GoodHabits"
     ]
   }
 }

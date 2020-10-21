@@ -22,7 +22,7 @@ const users = [
 
 const siteConfig = {
   title: "Ovinos IFC", // Title for your website.
-  tagline: "Bem vindo a Documentação do Sistema Da Ovinos - IFC Araquari",
+  tagline: "Projeto de ovinocultura, desenvolvimento em parceria entre a Fábrica de Software e o NEPPA",
   url: "https://your-docusaurus-test-site.com", // Your website URL
   baseUrl: "/", // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -38,7 +38,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    { doc: "doc1", label: "Docs" },
+    { doc: "doc1", label: "Documentação" },
     { page: "help", label: "Help" },
     { blog: true, label: "Blog" },
   ],
@@ -76,7 +76,7 @@ const siteConfig = {
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
-    theme: "default",
+    theme: "dracula",
   },
 
   // Add custom scripts here that would be placed in <script> tags.
