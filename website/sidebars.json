@@ -3,10 +3,11 @@
     "Setup para desenvolvimento": [
       "doc1",
       "InstallBackend",
-      "InstallFrontend"
-    ],
-    "Boas Práticas do Projeto": [
+      "InstallFrontend",
       "GoodHabits"
+    ],
+    "API": [
+      "Births"
     ]
   }
 }
